@@ -1,0 +1,16 @@
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityProject.exe.config
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityProject.exe
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityProject.pdb
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityFramework.dll
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityFramework.xml
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.AssemblyReference.cache
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.Form1.resources
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.cache
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.CoreCompileInputs.cache
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.CopyComplete
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.exe
+C:\Users\Aya Adel\source\repos\EntityProject\EntityProject\obj\Debug\EntityProject.pdb
